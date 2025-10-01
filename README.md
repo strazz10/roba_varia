@@ -9,3 +9,5 @@ metropolis.f90 implementa algoritmo metropolis per campionare una gaussiana
 
 plotter e analisi.py vanno finiti ma servono per analizzare i dati
 
+adunata.py è un bubble sort a tema accademia militare
+
