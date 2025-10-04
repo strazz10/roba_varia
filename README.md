@@ -1,5 +1,5 @@
 # roba_varia
-prove per cose varie
+Cose varie e inutili
 
 prova.f90 fa varie cose (integrali mc base, integrali trapezi, box-muller)
 
